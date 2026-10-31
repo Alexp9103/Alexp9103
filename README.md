@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> soy Juan · Sigilock</h1>
 
-<p align="center"><img src="avatar.webp" alt="Juan · Sigilock" width="320" /></p>
+<img src="banner.svg" alt="Sigi trabajando de noche" width="100%" />
 
 ## 📌 About Me
 - 💡 <em>Construyo herramientas con IA que sí funcionan: IA, automatización y ciberseguridad.</em>
@@ -48,6 +48,6 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /> </p>
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://sigilock.com" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" alt="sigilock.com" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://instagram.com/sigilock" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:contacto@sigilock.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center"><a href="https://sigilock.com" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" alt="sigilock.com" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.linkedin.com/in/juan-alexander-alejo/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://instagram.com/sigilock" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:contacto@sigilock.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <p align="center"><sub>Juan · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
