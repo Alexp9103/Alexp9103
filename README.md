@@ -1,54 +1,50 @@
-<h1 align="center">Hey 🔒 soy Juan</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> soy Juan · Sigilock</h1>
 
-<p align="center"><img src="avatar.webp" width="320" alt="Juan · Sigilock" /></p>
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
----
-
-## 📌 Sobre mí
-
-> 💡 Construyo herramientas con IA que sí funcionan: IA, automatización y ciberseguridad.
-
+## 📌 About Me
+- 💡 <em>Construyo herramientas con IA que sí funcionan: IA, automatización y ciberseguridad.</em>
 - 🛠️ Creé **[Meat Signal](https://meatsignal.com)** solo: señales de compra de carne para compradores B2B (~80 % de acierto en COMPRAR, prueba fuera de muestra 2022–2026).
 - 🤖 Automatizo procesos para pymes: bots, dashboards y apps a medida.
-- 🔐 Explico noticias de IA y ciberseguridad en menos de 60 segundos en **[@sigilock](https://instagram.com/sigilock)**.
-
----
+- 🔐 Noticias de IA y ciberseguridad en menos de 60 segundos en **[@sigilock](https://instagram.com/sigilock)**.
 
 ## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexp9103&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=alexp9103&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
+</p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alexp9103&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff7a1a&icon_color=ff7a1a&text_color=c9d1d9" />
-  <img height="160" src="https://streak-stats.demolab.com?user=Alexp9103&hide_border=true&background=0d1117&ring=ff7a1a&fire=ff7a1a&currStreakLabel=ff7a1a&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexp9103&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Alexp9103&theme=darkhub&no-frame=true&no-bg=true&column=7" /></p>
-
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alexp9103&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=alexp9103&theme=nightowl&radius=10" alt="Activity Graph" />
+</p>
 
 ## 🛠️ Languages & Tools
 
-### Lenguajes
-<p align="center"><img src="https://skillicons.dev/icons?i=py,ts,js,html,css&theme=dark" /></p>
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> </p>
 
-### Frontend
-<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" /></p>
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="48" height="48" style="margin: 4px;" /> </p>
 
-### Backend y datos
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,supabase&theme=dark" /></p>
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48" style="margin: 4px;" /> </p>
 
-### Nube y DevOps
-<p align="center"><img src="https://skillicons.dev/icons?i=gcp,docker,linux,githubactions&theme=dark" /></p>
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /> </p>
 
-### Herramientas
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /></p>
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="48" height="48" style="margin: 4px;" /> </p>
 
----
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /> </p>
 
 ## 🔗 Connect with Me
+<p align="center"><a href="https://sigilock.com" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" alt="sigilock.com" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://instagram.com/sigilock" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:contacto@sigilock.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
-<p align="center">
-  <a href="https://sigilock.com"><img src="https://img.shields.io/badge/sigilock.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=ff7a1a" /></a>
-  <a href="https://instagram.com/sigilock"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:contacto@sigilock.com"><img src="https://img.shields.io/badge/Email-ff7a1a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexp9103&bg_color=0d1117&color=c9d1d9&line=ff7a1a&point=ffffff&area=true&hide_border=true" /></p>
+<p align="center"><sub>Juan · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
