@@ -10,19 +10,11 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexp9103&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/Alexp9103/Alexp9103/output/stats.svg" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=alexp9103&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexp9103&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexp9103&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=alexp9103&theme=nightowl&radius=10" alt="Activity Graph" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/Alexp9103/Alexp9103/output/langs.svg" alt="Lenguajes" /></p>
 
 ## 🛠️ Languages & Tools
 
@@ -49,5 +41,10 @@
 
 ## 🔗 Connect with Me
 <p align="center"><a href="https://sigilock.com" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" alt="sigilock.com" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://www.linkedin.com/in/juan-alexander-alejo/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://instagram.com/sigilock" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:contacto@sigilock.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexp9103/Alexp9103/output/snake-dark.svg" />
+  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/Alexp9103/Alexp9103/output/snake.svg" />
+</picture>
 
 <p align="center"><sub>Juan · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
