@@ -13,7 +13,7 @@ u = json.load(urllib.request.urlopen(req))["data"]["user"]
 c, repos = u["contributionsCollection"], u["repositories"]
 
 BG, FG, AC, MUTED = "#0a1220", "#c9d1d9", "#ff7a1a", "#8b949e"
-filas = [("Contribuciones (año)", c["contributionCalendar"]["totalContributions"] + c["restrictedContributionsCount"]), ("Commits", c["totalCommitContributions"]),
+filas = [("Contribuciones (año)", c["contributionCalendar"]["totalContributions"]), ("Commits", c["totalCommitContributions"]),
          ("Pull requests", c["totalPullRequestContributions"]), ("Repos", repos["totalCount"]),
          ("Estrellas", sum(r["stargazerCount"] for r in repos["nodes"]))]
 txt = "".join(f'<text x="25" y="{70 + i*24}" fill="{FG}">{k}</text><text x="300" y="{70 + i*24}" fill="#fff" text-anchor="end" font-weight="700">{v}</text>' for i, (k, v) in enumerate(filas))
