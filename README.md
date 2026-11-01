@@ -4,7 +4,7 @@
 
 ## 📌 About Me
 - 💡 <em>Construyo herramientas con IA que sí funcionan: IA, automatización y ciberseguridad.</em>
-- 🛠️ Desarrollé **[Meat Signal](https://meatsignal.com)** para un cliente: señales de compra de carne para compradores B2B (~80 % de acierto en COMPRAR, prueba fuera de muestra 2022–2026).
+- 🛠️ Desarrollé **[Meat Signal](https://meatsignal.com)** para un cliente: señales de compra de carne para compradores B2B (en pruebas con datos históricos 2022–2026, 8 de cada 10 señales de compra de res acertaron).
 - 🤖 Automatizo procesos para pymes: bots, dashboards y apps a medida.
 - 🔐 Noticias de IA y ciberseguridad en menos de 60 segundos en **[@sigilock](https://instagram.com/sigilock)**.
 
