@@ -10,8 +10,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexp9103/Alexp9103/output/stats.svg" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=alexp9103&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
+  <img src="https://raw.githubusercontent.com/Alexp9103/Alexp9103/output/stats.svg" alt="GitHub Stats" width="60%" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Alexp9103/Alexp9103/output/langs.svg" alt="Lenguajes" /></p>
